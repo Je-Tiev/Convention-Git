@@ -1,4 +1,4 @@
-# Git Convention - Quy Tắc Sử Dụng Git Hiệu Quả
+# Git Convention
 
 ## 1. Quy tắc đặt tên branch
 - **Tính năng mới**: `feature/tên-tính-năng`  
